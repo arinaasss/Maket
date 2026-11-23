@@ -1,0 +1,217 @@
+#menu {
+	display: flex;
+}
+
+#menu a {
+	margin-right: 5px;
+	padding: 10px;
+	font: 15px Arial;
+	text-decoration: none;
+	color: white; 
+	border: 1px solid #02632ad3;
+	background-color: #02632ad3; 
+}
+
+#menu a:hover, #menu a.active {
+	color: #02632ad3; 
+	border: 1px solid #02632ad3; 
+	background-color: white; 
+}
+#menu1 {
+    width: 200px; 
+    margin-top: 10px ;
+}
+
+#menu1 a {
+    display: block; 
+    margin-bottom: 5px; 
+    padding: 10px;
+    font: 15px Arial;
+    text-decoration: none;
+    color: white; 
+    border: 1px solid #02632ad3;
+    background-color: #02632ad3; 
+}
+
+#menu1 a:hover, #menu1 a.active {
+    color: #02632ad3; 
+    border: 1px solid #02632ad3;
+    background-color: white; 
+}
+
+#menu2 {
+    display: flex;
+    width: 500px;
+    margin-bottom: 10px;
+}
+#menu2 a {
+    padding: 10px 20px;
+    font: 15px Arial;
+    text-decoration: none;
+    color: white;
+    border: 1px solid #02632ad3;
+    background-color: #02632ad3;
+}
+#menu2 a:hover, #menu2 a.active {
+    color: white; 
+    border: 1px solid #02632ad3;
+    background-color: rgb(3, 104, 42)
+}
+
+#wrapper {
+	width: 800px;
+	margin: 50px auto;
+	border: 1px solid black;
+}
+
+#menu3 {
+	display: flex;
+	justify-content: flex-start;
+	margin-bottom: 20px;
+	background-color: #484848;
+}
+#menu3 a {
+	margin: 0 5px;
+	padding: 15px 25px;
+	text-decoration: none;
+	color: #fff;
+	font: bold 14px Arial;
+}
+#menu3 a:hover, #menu a.active {
+	color: #484848;
+	background-color: #fff;
+}
+
+#content {
+	padding: 0 30px 20px;
+}
+#content h1 {
+	text-align: center;
+	margin-top: 0;
+	margin-bottom: 10px;
+}
+#content p {
+	padding: 0 10px;
+	margin-bottom: 5px;
+	font: 18px/1.3 Arial;
+	text-align: justify;
+}
+
+#q {
+    color: blue;
+}
+#q2 {
+    color:chocolate
+}
+#wrapper2 {
+    width: 1000px;
+    margin: 50px auto;
+    border: 1px solid darkorange;
+}
+#menu4{
+    display: flex;
+    margin-bottom: 1px;
+    background-color: darkorange;
+}
+#menu4 a {
+	margin: 0 5px;
+	padding: 15px 25px;
+	text-decoration: none;
+	color: white;
+	font: bold 14px Arial;
+    text-align: center;
+}
+#menu4 a:hover, #menu4 a.active {
+	color: #e6750c;
+	background-color: #fff;
+    text-align: center;
+}
+#q3 {
+    color: chocolate;  
+    text-align-last: center
+}
+#c1 {
+    color: darkorange;
+}
+#c2 {
+    color: darkorange;
+}
+#c3 {
+    text-align: center;
+}
+
+#c4 {
+    width: 800px;
+    height: 500px;
+    margin: 0 auto;
+    border: 1px solid black;
+    padding-left: 20px;
+    padding-right: 20px;
+    
+}
+#c5 {
+    color: black;
+    text-align: justify;
+}
+#c6 {
+    color: black;
+    text-align: justify;
+}
+#n {
+    color: blue;
+    text-align: justify;
+}
+#c7 {
+    color: blue;
+    text-align: right;
+}
+#w1 {
+    width: 800px;
+    height: 500px;
+    margin: 0 auto;
+    border: 1px solid black;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-top: 40px;
+}
+#w2 {
+    color: blue;
+    text-align: justify;
+}
+#w3 {
+    color: black;
+    text-align: justify;
+}
+#w4 {
+    color: black;
+    text-align: justify;
+}
+#w5 {
+    color: blue;
+    text-align: right
+}
+#r1 {
+    width: 800px;
+    height: 550px;
+    margin: 0 auto;
+    border: 1px solid black;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-top: 40px;
+}
+#r2 {
+    color: blue;
+    text-align: justify;
+}
+#r3 {
+    color: black;
+    text-align: justify;
+}
+#r4 {
+     color: black;
+    text-align: justify;
+}
+#r5 {
+    color: blue;
+    text-align: right;
+}
